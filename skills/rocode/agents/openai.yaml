@@ -1,0 +1,6 @@
+interface:
+  display_name: "روكود · RoCode — QFR Studios"
+  short_description: "Interview-led Roblox maps and GUI by QFR Studios"
+  default_prompt: "Use $rocode to design my Roblox map; ask me about its visual style first, then guide me through a detailed design interview before building."
+policy:
+  allow_implicit_invocation: true

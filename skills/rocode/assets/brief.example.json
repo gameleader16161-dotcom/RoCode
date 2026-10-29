@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "skill": "rocode",
+  "author": "QFR Studios",
+  "kind": "map",
+  "phase": "interview",
+  "decisions": {
+    "style": {"value": "كلاسيكي مطوّر مستوحى من 2007", "source": "user"},
+    "gameplay": {"value": "أوبي جزيرة", "source": "user"},
+    "devices": {"value": "موبايل وكمبيوتر", "source": "user"},
+    "landmark": {"value": "منارة بلون دافئ", "source": "proposed"}
+  },
+  "history": [],
+  "checkpoint": null,
+  "assets": [],
+  "verification": []
+}
